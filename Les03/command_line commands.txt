@@ -1,0 +1,6 @@
+DIR:	(DIR)ectory, laat alle bestanden en mappen zien in een map
+CD:	(C)hange (D)irectory, command om te gebruiken als je wilt navigeren door de directories
+MD:	(M)ake (D)irectory, creëert een map
+MKDIR:	(M)a(K)e (DIR)ectory, creëert een map
+MOVE:	verplaatst een map/bestand van de ene map naar een andere map
+TREE:	laa de directory tree zien van de map waar je nu in zit
